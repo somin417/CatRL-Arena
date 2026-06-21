@@ -1,0 +1,3 @@
+agent,avg_broken_bricks,clear_rate,avg_steps,avg_blocks_per_100_steps,avg_return
+FollowBall,81.0,0.6,9234.6,0.8855831927735306,0.0
+CEM-Aim,72.6,0.0,6964.4,1.1086119788673294,0.0

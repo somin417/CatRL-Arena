@@ -1,0 +1,253 @@
+{
+  "run_dir": "runs/cem_aim/v3_win_hunt_seed1",
+  "focus": "highlight",
+  "headline": {
+    "fb_no_clear_seeds": 8,
+    "cem_win_on_hard": "2/8",
+    "cem_clear_where_fb_failed": 1,
+    "mean_delta_bricks_on_hard": 0.5,
+    "overall_wins": "4/20",
+    "win_seeds": [
+      1,
+      2,
+      6,
+      19
+    ],
+    "peak_snapshot_win_rate": 0.125,
+    "peak_snapshot_gen": 6
+  },
+  "focused_seeds": [
+    6,
+    1,
+    2,
+    19,
+    9,
+    13,
+    14,
+    15,
+    4,
+    16
+  ],
+  "episodes": [
+    {
+      "seed": 0,
+      "cem_bricks": 80.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": -2.0,
+      "cem_clear": 0,
+      "fb_clear": 1,
+      "verdict": "LOSS",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 1,
+      "cem_bricks": 82.0,
+      "fb_bricks": 81.0,
+      "delta_bricks": 1.0,
+      "cem_clear": 1,
+      "fb_clear": 0,
+      "verdict": "WIN",
+      "fb_no_clear": true,
+      "cem_clears_fb_failed": true
+    },
+    {
+      "seed": 2,
+      "cem_bricks": 82.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 1,
+      "fb_clear": 1,
+      "verdict": "WIN",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 3,
+      "cem_bricks": 81.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": -1.0,
+      "cem_clear": 0,
+      "fb_clear": 1,
+      "verdict": "LOSS",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 4,
+      "cem_bricks": 77.0,
+      "fb_bricks": 78.0,
+      "delta_bricks": -1.0,
+      "cem_clear": 0,
+      "fb_clear": 0,
+      "verdict": "LOSS",
+      "fb_no_clear": true,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 5,
+      "cem_bricks": 81.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": -1.0,
+      "cem_clear": 0,
+      "fb_clear": 1,
+      "verdict": "LOSS",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 6,
+      "cem_bricks": 81.0,
+      "fb_bricks": 74.0,
+      "delta_bricks": 7.0,
+      "cem_clear": 0,
+      "fb_clear": 0,
+      "verdict": "WIN",
+      "fb_no_clear": true,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 7,
+      "cem_bricks": 80.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": -2.0,
+      "cem_clear": 0,
+      "fb_clear": 1,
+      "verdict": "LOSS",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 8,
+      "cem_bricks": 82.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 1,
+      "fb_clear": 1,
+      "verdict": "TIE",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 9,
+      "cem_bricks": 81.0,
+      "fb_bricks": 81.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 0,
+      "fb_clear": 0,
+      "verdict": "TIE",
+      "fb_no_clear": true,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 10,
+      "cem_bricks": 82.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 1,
+      "fb_clear": 1,
+      "verdict": "TIE",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 11,
+      "cem_bricks": 82.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 1,
+      "fb_clear": 1,
+      "verdict": "LOSS",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 12,
+      "cem_bricks": 82.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 1,
+      "fb_clear": 1,
+      "verdict": "TIE",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 13,
+      "cem_bricks": 71.0,
+      "fb_bricks": 71.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 0,
+      "fb_clear": 0,
+      "verdict": "TIE",
+      "fb_no_clear": true,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 14,
+      "cem_bricks": 76.0,
+      "fb_bricks": 76.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 0,
+      "fb_clear": 0,
+      "verdict": "TIE",
+      "fb_no_clear": true,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 15,
+      "cem_bricks": 80.0,
+      "fb_bricks": 80.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 0,
+      "fb_clear": 0,
+      "verdict": "TIE",
+      "fb_no_clear": true,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 16,
+      "cem_bricks": 78.0,
+      "fb_bricks": 81.0,
+      "delta_bricks": -3.0,
+      "cem_clear": 0,
+      "fb_clear": 0,
+      "verdict": "LOSS",
+      "fb_no_clear": true,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 17,
+      "cem_bricks": 82.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 1,
+      "fb_clear": 1,
+      "verdict": "TIE",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 18,
+      "cem_bricks": 82.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 1,
+      "fb_clear": 1,
+      "verdict": "LOSS",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    },
+    {
+      "seed": 19,
+      "cem_bricks": 82.0,
+      "fb_bricks": 82.0,
+      "delta_bricks": 0.0,
+      "cem_clear": 1,
+      "fb_clear": 1,
+      "verdict": "WIN",
+      "fb_no_clear": false,
+      "cem_clears_fb_failed": false
+    }
+  ]
+}

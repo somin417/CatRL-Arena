@@ -1,0 +1,5 @@
+numpy<2
+pygame
+matplotlib
+# GPU (RTX 40xx / CUDA 12.x driver): pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+torch

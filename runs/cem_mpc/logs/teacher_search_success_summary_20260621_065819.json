@@ -1,0 +1,75 @@
+{
+  "headline": {
+    "planning_superior_steps": 248,
+    "planning_superior_pct": 0.524,
+    "opportunity_pct_of_game": 24.6,
+    "superior_on_opportunity_pct": 2.13,
+    "deviate_win_rate_pct": 58.5,
+    "episodes_same_bricks": "4/5",
+    "episodes_same_return": "3/5",
+    "teacher_demo_states": 248,
+    "teacher_demo_all_differ_from_fb": true
+  },
+  "episodes": [
+    {
+      "seed": 10,
+      "cem_bricks": 82,
+      "fb_bricks": 82,
+      "cem_steps": 9400,
+      "fb_steps": 9400,
+      "cem_ret": 16306.0,
+      "fb_ret": 16305.999999998134,
+      "delta_ret": 1.8662831280380487e-09,
+      "delta_bricks": 0,
+      "same_bricks": true
+    },
+    {
+      "seed": 13,
+      "cem_bricks": 71,
+      "fb_bricks": 71,
+      "cem_steps": 10000,
+      "fb_steps": 10000,
+      "cem_ret": 14100.0,
+      "fb_ret": 14099.999999997968,
+      "delta_ret": 2.0318111637607217e-09,
+      "delta_bricks": 0,
+      "same_bricks": true
+    },
+    {
+      "seed": 19,
+      "cem_bricks": 82,
+      "fb_bricks": 82,
+      "cem_steps": 7959,
+      "fb_steps": 9649,
+      "cem_ret": 16320.41,
+      "fb_ret": 16303.509999998068,
+      "delta_ret": 16.900000001931403,
+      "delta_bricks": 0,
+      "same_bricks": true
+    },
+    {
+      "seed": 0,
+      "cem_bricks": 79,
+      "fb_bricks": 82,
+      "cem_steps": 10000,
+      "fb_steps": 8127,
+      "cem_ret": 15700.0,
+      "fb_ret": 16318.729999998473,
+      "delta_ret": -618.7299999984734,
+      "delta_bricks": -3,
+      "same_bricks": false
+    },
+    {
+      "seed": 1,
+      "cem_bricks": 81,
+      "fb_bricks": 81,
+      "cem_steps": 10000,
+      "fb_steps": 10000,
+      "cem_ret": 16100.0,
+      "fb_ret": 16099.999999997919,
+      "delta_ret": 2.08092387765646e-09,
+      "delta_bricks": 0,
+      "same_bricks": true
+    }
+  ]
+}

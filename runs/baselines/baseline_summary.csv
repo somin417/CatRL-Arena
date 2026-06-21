@@ -1,0 +1,3 @@
+agent,avg_return,avg_steps,clear_rate,avg_broken_bricks,avg_blocks_per_100_steps
+Random,867.5054999999827,249.45,0.0,4.6,1.389832198250189
+FollowBall,15971.245499998244,8875.45,0.6,80.3,0.9465525544624261

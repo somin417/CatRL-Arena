@@ -1,0 +1,52 @@
+{
+  "total_decisions": 47359,
+  "mpc_deviations": 424,
+  "deviation_rate": 0.00895289174180198,
+  "opportunity_states": 11635,
+  "opportunity_deviation_rate": 0.03644177051998281,
+  "beats_followball_states": 248,
+  "loses_to_followball_states": 176,
+  "avg_delta_rollout_bricks": 0.03343360550064461,
+  "seed_table": [
+    {
+      "env_seed": 10,
+      "cem_bricks": 82,
+      "follow_bricks": 82,
+      "cem_clear": 1,
+      "follow_clear": 1,
+      "delta_bricks": 0
+    },
+    {
+      "env_seed": 13,
+      "cem_bricks": 71,
+      "follow_bricks": 71,
+      "cem_clear": 0,
+      "follow_clear": 0,
+      "delta_bricks": 0
+    },
+    {
+      "env_seed": 19,
+      "cem_bricks": 82,
+      "follow_bricks": 82,
+      "cem_clear": 1,
+      "follow_clear": 1,
+      "delta_bricks": 0
+    },
+    {
+      "env_seed": 0,
+      "cem_bricks": 79,
+      "follow_bricks": 82,
+      "cem_clear": 0,
+      "follow_clear": 1,
+      "delta_bricks": -3
+    },
+    {
+      "env_seed": 1,
+      "cem_bricks": 81,
+      "follow_bricks": 81,
+      "cem_clear": 0,
+      "follow_clear": 0,
+      "delta_bricks": 0
+    }
+  ]
+}
