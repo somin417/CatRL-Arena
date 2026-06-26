@@ -4,6 +4,8 @@
 
 Two identical game panels run side by side in Pygame (human vs agent). The same `CatBreakEnv` supports headless training and evaluation for baselines, DQN, CEM-MPC, and CEM-Aim.
 
+https://github.com/user-attachments/assets/af82c54c-5781-4eeb-a3d1-fb11c9cc6e99
+
 ## Highlights
 
 | Agent | Type | Runtime cost | Notes |
